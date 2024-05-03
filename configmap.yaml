@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: nodejs-config
+data:
+  MESSAGE: "Hello, Kubernetes in config"
+  ANOTHER_VAR: "Another Value"
+  YET_ANOTHER_VAR: "Yet Another Value"
