@@ -5,4 +5,4 @@ metadata:
 data:
   MESSAGE: "Hello, Kubernetes in config"
   ANOTHER_VAR: "Another Value"
-  YET_ANOTHER_VAR: "Yet Another Val
+  YET_ANOTHER_VAR: "Yet Another Val"
